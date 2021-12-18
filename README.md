@@ -1,4 +1,4 @@
 # QuestLog
 To run, use:
-###npm install
-###npm start
+### npm install
+### npm start
